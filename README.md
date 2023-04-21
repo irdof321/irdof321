@@ -22,8 +22,8 @@ I'm David Forgione, a software engineer from Sierre.
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=irdof321&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irdof321&layout=compact&theme=radical)
 
 <!-- Optional: You can add more sections like Blog posts, Certifications, etc. -->
