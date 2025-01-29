@@ -77,5 +77,3 @@ I'm **David Forgione**, a **Software Engineer** specializing in **robotics, auto
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irdof321&layout=compact&theme=radical)
 
 ---
-
-📌 *I’m always open to collaborations and discussions in robotics, AI, and automation!* Feel free to reach out! 😊
