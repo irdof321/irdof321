@@ -1,16 +1,16 @@
 ### Hi there! 👋
 
-I'm **David Forgione**, a **Software Engineer** specializing in **robotics, automation, and data processing**. Passionate about **embedded systems, ROS**, I enjoy developing innovative solutions that bridge hardware and software. 
+I'm **David Forgione**, a **Software Engineer** specializing in **robotics, automation, and data processing**. Passionate about **embedded systems, ROS**, I enjoy developing innovative solutions. 
 
-- 🔭 **Currently working at** Syrto AG
-- 🌱 **Currently learning** Self-driving car technologies on Coursera
-- 💬 **Ask me about** ROS, Computer Vision, Python, and C++
-- 📫 **Reach me at** irdof321@gmail.com
-- 🚀 **Check out my projects below!**
+- 🌟 **Currently working at** Syrto AG  
+- 🌱 **Currently learning** Self-driving car technologies on Coursera  
+- 💬 **Ask me about** ROS, Computer Vision, Python, and C++  
+- 📧 **Reach me at** irdof321@gmail.com  
+- 🚀 **Check out my projects below!**  
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🫠 Technologies & Tools
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white) 
@@ -35,19 +35,44 @@ I'm **David Forgione**, a **Software Engineer** specializing in **robotics, auto
 
 ## 🚀 Featured Projects
 
-🔹 **[Log Manager (C++, ROS, OpenCV, PostgreSQL)](https://github.com/irdof321/logger-irdof)**
-   - A scalable event logging system for robotics applications. 
-   - Associates events with logs, videos, text, and ROS topics.
+### 🔗 **Highlighted Work**
 
-🔹 **[SuperEinstein - 2D Platformer (C++, Qt)]https://github.com/irdof321/supereinstein**
-   - A Mario-style game featuring a physics engine and a custom level editor.
-
-🔹 **[Data Processing & Dashboard (Python, Dash, PostgreSQL)](https://github.com/your-repo-link)**
-   - A project focusing on data visualization and analytics through an interactive dashboard.
+- **[Log Manager (C++, ROS, OpenCV, PostgreSQL)](https://github.com/irdof321/logger-irdof)**  
+  ✨ A scalable event logging system for any applications. Associates events with logs, videos, text, and ROS topics.
+  
+- **[SuperEinstein - 2D Platformer (C++, Qt)](https://github.com/irdof321/supereinstein)**  
+  ✨ A Mario-style game featuring a physics engine and a custom level editor.
+  
+- **[Data Processing & Dashboard (Python, Dash, Pickle)](https://github.com/irdof321/Dash-database-manager)**  
+  ✨ A project focusing on data visualization and analytics through an interactive dashboard.
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Learning Projects (Coursera & Online Courses)
+
+### 🔮 **Courses & Projects**
+
+- **[C# Course](https://github.com/irdof321/csharp-course)**  
+  Learning the fundamentals of C# and .NET development.
+
+- **[TensorFlow Advanced - Coursera](https://github.com/irdof321/TensorFLowAdvanceCoursera)**  
+  Advanced deep learning models using TensorFlow.
+
+- **[Data Science Foundation - Coursera](https://github.com/irdof321/DataScienceFundation)**  
+  Essential concepts and algorithms in data science.
+
+- **[Deep Learning - Coursera](https://github.com/irdof321/deeplearning-coursera)**  
+  Neural networks, CNNs, and AI models from Andrew Ng's specialization.
+
+- **[Machine Learning Coursera](https://github.com/irdof321/machine-learning-course)**  
+  Supervised and unsupervised learning techniques applied to real-world problems.
+
+- **[MotionRig](https://github.com/irdof321/MotionRig)**  
+  Motion planning and control algorithms for simulating car movements on a seat.
+
+---
+
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irdof321&layout=compact&theme=radical)
 
