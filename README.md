@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm **David Forgione**, a **Software Engineer** specializing in **robotics, automation, and data processing**. Passionate about **embedded systems, ROS, and AI**, I enjoy developing innovative solutions that bridge hardware and software. 
+I'm **David Forgione**, a **Software Engineer** specializing in **robotics, automation, and data processing**. Passionate about **embedded systems, ROS**, I enjoy developing innovative solutions that bridge hardware and software. 
 
 - 🔭 **Currently working at** Syrto AG
 - 🌱 **Currently learning** Self-driving car technologies on Coursera
@@ -35,11 +35,11 @@ I'm **David Forgione**, a **Software Engineer** specializing in **robotics, auto
 
 ## 🚀 Featured Projects
 
-🔹 **[Log Manager (C++, ROS, OpenCV, PostgreSQL)](https://github.com/your-repo-link)**
+🔹 **[Log Manager (C++, ROS, OpenCV, PostgreSQL)](https://github.com/irdof321/logger-irdof)**
    - A scalable event logging system for robotics applications. 
    - Associates events with logs, videos, text, and ROS topics.
 
-🔹 **[SuperEinstein - 2D Platformer (C++, Qt)](https://github.com/your-repo-link)**
+🔹 **[SuperEinstein - 2D Platformer (C++, Qt)]https://github.com/irdof321/supereinstein**
    - A Mario-style game featuring a physics engine and a custom level editor.
 
 🔹 **[Data Processing & Dashboard (Python, Dash, PostgreSQL)](https://github.com/your-repo-link)**
