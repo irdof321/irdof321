@@ -5,7 +5,7 @@ I'm David Forgione, a software engineer from Sierre.
 - 🔭 I’m currently working for Syrto AG
 - 🌱 I’m currently learning Self driving car on Coursera
 - 💬 Ask me about ROS, PointCloud, PYthon and C++
-- 📫 How to reach me: david.forgione@syrto.ch
+- 📫 How to reach me: irdof321@gmail.com
 - 😄 Pronouns: Mr.
 
 ## 🛠️ Technologies & Tools
