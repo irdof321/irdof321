@@ -48,7 +48,7 @@ I'm **David Forgione**, a **Software Engineer** specializing in **robotics, auto
 
 ---
 
-## 🎓 Learning Projects (Coursera & Online Courses)
+## 🎓 Learning Projects (Coursera, Online Courses and School)
 
 ### 🔮 **Courses & Projects**
 
