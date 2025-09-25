@@ -2,8 +2,7 @@
 
 I'm **David Forgione**, a **Software Engineer** specializing in **robotics, automation, and data processing**. Passionate about **embedded systems, ROS**, I enjoy developing innovative solutions. 
 
-- 🌟 **Currently working at** Syrto AG  
-- 🌱 **Currently learning** Self-driving car technologies on Coursera  
+- 🌟 **Currently open to work** 
 - 💬 **Ask me about** ROS, Computer Vision, Python, and C++  
 - 📧 **Reach me at** irdof321@gmail.com  
 - 🚀 **Check out my projects below!**  
