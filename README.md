@@ -116,7 +116,7 @@ An event logging system designed to associate application events with multiple t
 
 ## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irdof321&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irdof321&layout=compact&theme=radical&hide=jupyter%20notebook,html,matlab,makefile,r&exclude_repo=deeplearning-coursera,TensorFLowAdvanceCoursera,DataScienceFundation,Dash-database-manager&langs_count=6&size_weight=0.5&count_weight=0.5)
 
 ---
 
