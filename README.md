@@ -114,10 +114,9 @@ An event logging system designed to associate application events with multiple t
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irdof321&layout=compact&theme=radical&hide=jupyter%20notebook,html,matlab,makefile,r&exclude_repo=deeplearning-coursera,TensorFLowAdvanceCoursera,DataScienceFundation,Dash-database-manager&langs_count=6&size_weight=0.5&count_weight=0.5)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irdof321&layout=compact&theme=radical&hide=jupyter%20notebook,html,matlab,makefile,r&exclude_repo=deeplearning-coursera,TensorFLowAdvanceCoursera,DataScienceFundation,Dash-database-manager,csharp-course&langs_count=6&size_weight=0.5&count_weight=0.5)
 ---
 
 ### 🤝 Let's Connect
